@@ -1,7 +1,8 @@
-## Subscriptions Management with Flow Router and React
+## Flow-Router, React, and Pixi in Meteor.
 
-with `grigio:babel` + `grove:react`
-
-See:
-
-![Subscriptions Management with Flow Router](https://cldup.com/esLzM8cjEL.gif)
+A very simple framework for a full-stack canvas app.
+Meteor handles the backend and reactivity.
+Flow-Router handles routes in a React-friendly way.
+React handles the view layer.
+ReactPixi connects React to a canvas library.
+Pixi draws to the canvas.
